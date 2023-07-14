@@ -1,0 +1,61 @@
+.greeting {
+  font-family: "Space Mono", monospace;
+  font-style: normal;
+  max-width: 521px;
+  padding-left: 40px;
+}
+
+.greeting_phrase {
+  font-weight: 450;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3a097a;
+}
+
+.greeting_name {
+  font-weight: 400;
+  font-size: 62px;
+  line-height: 81px;
+  color: #23024e;
+}
+
+.greeting_prof {
+  font-weight: 450;
+  font-size: 32px;
+  line-height: 42px;
+  color: #4d5bce;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  margin-bottom: 81px;
+}
+
+.greeting_comment {
+  font-weight: 450;
+  font-size: 16px;
+  line-height: 21px;
+  color: #607b96;
+  margin-bottom: 5px;
+}
+
+.greeting_link {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 21px;
+  margin-bottom: 20px;
+}
+
+.violet {
+  color: darkorchid;
+}
+
+.green {
+  color: darkblue;
+}
+
+.orange {
+  color: darkcyan;
+  
+}
+
+.white {
+  color: #607b96;
+}
