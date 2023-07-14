@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my/static/css/main.3c362c74.css",
+    "main.js": "/my/static/js/main.a57fcb3d.js",
+    "static/media/frontiers.png": "/my/static/media/frontiers.44b03233858150080763.png",
+    "static/media/denis_novik.png": "/my/static/media/denis_novik.f75dd735b779ced56b99.png",
+    "static/media/my_photo.jpg": "/my/static/media/my_photo.15f30bbd51d4e6e1caa1.jpg",
+    "static/media/photo_2023-07-13_15-00-06.jpg": "/my/static/media/photo_2023-07-13_15-00-06.18c09c3a711a473a4224.jpg",
+    "static/media/sowork.png": "/my/static/media/sowork.289f5ecdcfb0f56f030e.png",
+    "static/media/shortly.png": "/my/static/media/shortly.9c5749e222151db62010.png",
+    "static/media/resss.png": "/my/static/media/resss.f448ff550d34d23c50ca.png",
+    "static/media/devinder.png": "/my/static/media/devinder.935198556c473958a31a.png",
+    "static/media/Blue.svg": "/my/static/media/Blue.a1ea64728fd81940a400ac0b9c52da69.svg",
+    "static/media/Green.svg": "/my/static/media/Green.0901bfb259e5824b0b97fdec6a6c74a1.svg",
+    "index.html": "/my/index.html",
+    "main.3c362c74.css.map": "/my/static/css/main.3c362c74.css.map",
+    "main.a57fcb3d.js.map": "/my/static/js/main.a57fcb3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c362c74.css",
+    "static/js/main.a57fcb3d.js"
+  ]
+}
