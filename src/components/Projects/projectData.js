@@ -4,8 +4,18 @@ import devdinder from "./assets/devinder.png";
 import shortly from "./assets/shortly.png";
 import sowork from "./assets/sowork.png";
 import frontiers from "./assets/frontiers.png";
+import historicalSlider from "./assets/hitsoricalSlider.png"
 
 export const learnEx = [
+  {
+    name: "Historical slider",
+    desciption:
+      "Красивый двойной слайдер со сложной круговой анимацией, написанный на GSAP",
+    stack: ["REACT", "GSAP", "useGsap", "styled-components"],
+    link: "https://historical-slider.vercel.app/",
+    pic: historicalSlider
+  },
+
   {
     name: "REST Countries",
     desciption:

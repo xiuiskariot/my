@@ -22,7 +22,7 @@ export const Projects = () => {
             <Card {...el} />
           ))}
         </div>
-        <TitleS>УЧЕБНЫЕ ПРОЕКТЫ</TitleS>
+        <TitleS>ЛИЧНЫЕ ПРОЕКТЫ</TitleS>
         <div>
           {learnEx.map((el) => (
             <Card {...el} />
